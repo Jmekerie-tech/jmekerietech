@@ -1463,3 +1463,47 @@ section {
     font-size: 13px;
     color: #fff;
 }
+
+.list-inline {
+    padding-left: 0;
+    list-style: none
+}
+
+.list-inline-item {
+    display: inline-block
+}
+
+.list-inline-item {
+    display: inline-block
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: .5rem
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: .5rem
+}
+
+ul.social-buttons {
+    margin-bottom: 10px;
+}
+
+ul.social-buttons li a {
+    font-size: 20px;
+    line-height: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    transition: all .3s;
+    color: #fff;
+    border-radius: 100%;
+    outline: none;
+    background-color: #212529
+}
+
+ul.social-buttons li a:active,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:hover {
+    background-color: #fed136
+}
