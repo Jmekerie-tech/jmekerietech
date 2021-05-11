@@ -1,6 +1,0 @@
-- twitter la cosma si cristi
-- de rezolvat background ul cu hackeru.(lagheaza imaginea)
-- contact section de modificat cu gri si negru
-- sa fac sa mearga contact section
-- de mutat logo ul mai in dreapta 
-- de facut footer ul
