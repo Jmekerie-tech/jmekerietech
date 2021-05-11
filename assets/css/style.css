@@ -1025,7 +1025,7 @@ section {
 --------------------------------------------------------------*/
 
 .team {
-    background: darkgrey;
+    background: grey;
     padding: 60px 0;
 }
 
@@ -1113,12 +1113,12 @@ section {
 --------------------------------------------------------------*/
 
 .contact {
-    background: grey;
+    background: darkgrey;
 }
 
 .contact .info {
     width: 100%;
-    background: grey;
+    background: darkgrey;
 }
 
 .contact .info i {
@@ -1157,7 +1157,7 @@ section {
 
 .contact .php-email-form {
     width: 100%;
-    background: grey;
+    background: darkgrey;
 }
 
 .contact .php-email-form .form-group {
