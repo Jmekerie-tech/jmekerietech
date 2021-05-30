@@ -1024,14 +1024,16 @@ section {
 # Team
 --------------------------------------------------------------*/
 
+.team .col-lg-3 {
+    width: 33%;
+}
+
 .team {
     background: grey;
     padding: 60px 0;
 }
 
 .team .member {
-    margin-bottom: 20px;
-    overflow: hidden;
     border-radius: 5px;
     background: grey;
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
